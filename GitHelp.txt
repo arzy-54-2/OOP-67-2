@@ -29,3 +29,5 @@ git commit -m "Commit name"
 пишите название вашей ветки, оно отображается в вашем терминале в скобке (master), (main) или (что-то другое):
 
 git push origin master/main
+
+5) git branch name_branche
