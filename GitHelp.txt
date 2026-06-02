@@ -32,6 +32,11 @@ git push origin master/main
 
 5) git branch name_branche
 
+6) git restore       | Вернуть файлы в исходное состояние
+7) git reset         | Вернуть файлы в исходное состояние после git add .
+8) git reset --mixed HEAD~1 | Удалить последний коммит и вернуть файлы в исходное состояние
+
+
 production | hotfix/register
 
 test|stage release/1.0.0 -> production/
